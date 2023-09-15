@@ -7,7 +7,7 @@ import { FaUserCircle } from "react-icons/fa";
 
 const Header = () => {
 	return (
-		<div className="main-div flex items-center justify-between shadow-xl px-6">
+		<div className="main-div flex items-center justify-between px-6">
 			<div className="left flex items-center">
 				<div className="menu text-2xl">
 					<CgMenu />
