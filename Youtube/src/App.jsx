@@ -1,10 +1,10 @@
-import { FaYoutube } from "react-icons/fa";
+import Home from "./Pages/Home";
 
 function App() {
 	return (
-		<h1 className="text-3xl text-red-500 font-bold underline">
-			<FaYoutube />
-		</h1>
+		<div>
+			<Home />
+		</div>
 	);
 }
 
